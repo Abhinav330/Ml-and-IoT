@@ -9,10 +9,10 @@ This repository is for showing how ML and IOT is implemented together to know mo
 
 <b>Driver.py :</b> this is a python program it will help in using machine learning model efficently.
 <br>
-Output.jpg : Graph for showing how temperature changes with time.
+<b>Output.jpg :</b> Graph for showing how temperature changes with time.
 <br>
-When_to_bath.ipynb : Data cleaning and ML model tranning is here.
+<b>When_to_bath.ipynb :</b> Data cleaning and ML model tranning is here.
 <br>
-Temp_dataset.csv : Our custom dataset.
+<b>Temp_dataset.csv :</b> Our custom dataset.
 <br>
-temp.pkl : our model is saved as pickel file so that we can use it later.
+<b>temp.pkl :</b> our model is saved as pickel file so that we can use it later.
