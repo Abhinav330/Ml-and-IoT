@@ -3,7 +3,7 @@ This repository is for showing how ML and IOT is implemented together to know mo
 
 
 # Watch this video for knowing more about this project 
-<a href='https://youtu.be/eE281csQILc'> YOutube Link</a>
+<a href='https://youtu.be/eE281csQILc'> Youtube Link</a>
 
 ## Files in this repository:
 
