@@ -16,3 +16,6 @@ This repository is for showing how ML and IOT is implemented together to know mo
 <b>Temp_dataset.csv :</b> Our custom dataset.
 <br>
 <b>temp.pkl :</b> our model is saved as pickel file so that we can use it later.
+<br>
+<b>Code.ino :</b> Arduino IDE code for NodeMcu.
+
