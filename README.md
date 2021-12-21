@@ -7,7 +7,7 @@ This repository is for showing how ML and IOT is implemented together to know mo
 
 ## Files in this repository:
 
-Driver.py : this is a python program it will help in using machine learning model efficently.
+<b>Driver.py :</b> this is a python program it will help in using machine learning model efficently.
 <br>
 Output.jpg : Graph for showing how temperature changes with time.
 <br>
